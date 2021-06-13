@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/gistapi_react/static/css/main.b6cd2504.chunk.css",
+    "main.js": "/gistapi_react/static/js/main.c19ff3b4.chunk.js",
+    "main.js.map": "/gistapi_react/static/js/main.c19ff3b4.chunk.js.map",
+    "runtime-main.js": "/gistapi_react/static/js/runtime-main.f855b661.js",
+    "runtime-main.js.map": "/gistapi_react/static/js/runtime-main.f855b661.js.map",
+    "static/css/2.b346d2fd.chunk.css": "/gistapi_react/static/css/2.b346d2fd.chunk.css",
+    "static/js/2.4a4526c0.chunk.js": "/gistapi_react/static/js/2.4a4526c0.chunk.js",
+    "static/js/2.4a4526c0.chunk.js.map": "/gistapi_react/static/js/2.4a4526c0.chunk.js.map",
+    "index.html": "/gistapi_react/index.html",
+    "static/css/2.b346d2fd.chunk.css.map": "/gistapi_react/static/css/2.b346d2fd.chunk.css.map",
+    "static/css/main.b6cd2504.chunk.css.map": "/gistapi_react/static/css/main.b6cd2504.chunk.css.map",
+    "static/js/2.4a4526c0.chunk.js.LICENSE.txt": "/gistapi_react/static/js/2.4a4526c0.chunk.js.LICENSE.txt",
+    "static/media/octicons.css": "/gistapi_react/static/media/octicons.f9ced0fc.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f855b661.js",
+    "static/css/2.b346d2fd.chunk.css",
+    "static/js/2.4a4526c0.chunk.js",
+    "static/css/main.b6cd2504.chunk.css",
+    "static/js/main.c19ff3b4.chunk.js"
+  ]
+}

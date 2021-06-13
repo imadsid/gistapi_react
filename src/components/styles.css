@@ -1,0 +1,33 @@
+
+  
+ .user-img {
+    width: 50%;
+    border-radius: 50%;
+} 
+
+  .card-list {
+      list-style: none;
+      padding: 20px;
+  }
+  
+  .card-a{
+      text-decoration: none;
+      cursor: pointer;
+  }
+
+  .card-font{
+      font-size: 12px;
+  }
+
+  .card-cover-ul{
+      padding-left: 0px;
+  }
+
+  .display{
+      display: inline-flex;
+  }
+
+  .error-box {
+    padding: 20px;
+    margin: 40px;
+  }

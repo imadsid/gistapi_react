@@ -1,14 +1,29 @@
-import React from 'react'
+import React ,{useState} from 'react'
 import styled from 'styled-components'
 import Octicon from 'react-octicon'
 import Search from './Search';
+import GistList from './GistList'
 
 function Header() {
+  const [searchText, setSearchText] = useState("")
+
+   const inputHandler = (searchItem) =>{
+    setSearchText(searchItem)
+  }
+   let display
+  if(searchText){
+    display =  <GistList username = {searchText} />
+  }
   return (
+    <>
     <Wrapper>
       <Octicon name="mark-github" mega/>
-      <Search />
+      <Search handler = {inputHandler} />
     </Wrapper>
+   {display} 
+  
+     
+    </>
   )
 }
 

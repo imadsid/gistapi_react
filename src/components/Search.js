@@ -2,14 +2,20 @@ import React from 'react'
 import styled from 'styled-components'
 import Octicon from 'react-octicon'
 
-const Search = () => {
+const Search = (props) => {
+  
+  const HandlerInput = (event) => (
+    props.handler(event.target.value))    
   return (
+    <>
     <Wrapper>
       <InputBox>
       <Octicon name="search" />
-      <Input placeholder="Search Gists for the username"/>
+      <Input placeholder="Search Gists for the username" name = "searchText" onChange = {HandlerInput} />
       </InputBox>
     </Wrapper>
+    
+    </>
   )
 }
 
