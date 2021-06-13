@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/imadsid.github.io/gistapi_react/static/css/main.b6cd2504.chunk.css",
+    "main.js": "/imadsid.github.io/gistapi_react/static/js/main.c19ff3b4.chunk.js",
+    "main.js.map": "/imadsid.github.io/gistapi_react/static/js/main.c19ff3b4.chunk.js.map",
+    "runtime-main.js": "/imadsid.github.io/gistapi_react/static/js/runtime-main.c3a4805d.js",
+    "runtime-main.js.map": "/imadsid.github.io/gistapi_react/static/js/runtime-main.c3a4805d.js.map",
+    "static/css/2.e8d1baa5.chunk.css": "/imadsid.github.io/gistapi_react/static/css/2.e8d1baa5.chunk.css",
+    "static/js/2.ffdc8efc.chunk.js": "/imadsid.github.io/gistapi_react/static/js/2.ffdc8efc.chunk.js",
+    "static/js/2.ffdc8efc.chunk.js.map": "/imadsid.github.io/gistapi_react/static/js/2.ffdc8efc.chunk.js.map",
+    "index.html": "/imadsid.github.io/gistapi_react/index.html",
+    "static/css/2.e8d1baa5.chunk.css.map": "/imadsid.github.io/gistapi_react/static/css/2.e8d1baa5.chunk.css.map",
+    "static/css/main.b6cd2504.chunk.css.map": "/imadsid.github.io/gistapi_react/static/css/main.b6cd2504.chunk.css.map",
+    "static/js/2.ffdc8efc.chunk.js.LICENSE.txt": "/imadsid.github.io/gistapi_react/static/js/2.ffdc8efc.chunk.js.LICENSE.txt",
+    "static/media/octicons.css": "/imadsid.github.io/gistapi_react/static/media/octicons.f9ced0fc.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3a4805d.js",
+    "static/css/2.e8d1baa5.chunk.css",
+    "static/js/2.ffdc8efc.chunk.js",
+    "static/css/main.b6cd2504.chunk.css",
+    "static/js/main.c19ff3b4.chunk.js"
+  ]
+}
