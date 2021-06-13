@@ -5,7 +5,8 @@
 
 const GistList = (props) => {
   const [gists, setGists] = useState([]);
-  const octokit = new Octokit({auth: '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'});
+//   const octokit = new Octokit({auth: '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'});
+const octokit = new Octokit();
   const username = props.username;
   
   useEffect(() => {  
