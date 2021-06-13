@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gistapi_react/static/css/main.b6cd2504.chunk.css",
-    "main.js": "/gistapi_react/static/js/main.8d1663c9.chunk.js",
-    "main.js.map": "/gistapi_react/static/js/main.8d1663c9.chunk.js.map",
+    "main.js": "/gistapi_react/static/js/main.55b9acf6.chunk.js",
+    "main.js.map": "/gistapi_react/static/js/main.55b9acf6.chunk.js.map",
     "runtime-main.js": "/gistapi_react/static/js/runtime-main.f855b661.js",
     "runtime-main.js.map": "/gistapi_react/static/js/runtime-main.f855b661.js.map",
     "static/css/2.b346d2fd.chunk.css": "/gistapi_react/static/css/2.b346d2fd.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.b346d2fd.chunk.css",
     "static/js/2.4a4526c0.chunk.js",
     "static/css/main.b6cd2504.chunk.css",
-    "static/js/main.8d1663c9.chunk.js"
+    "static/js/main.55b9acf6.chunk.js"
   ]
 }
